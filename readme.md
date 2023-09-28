@@ -1,26 +1,24 @@
-C:\Users\bryan\bootcamp\challenges\C19-PWA-TextEditor
 
-# PWA Text Editor
+# Progressive Web Application (PWA)
 
-## Description
 
-This is a simple text editor that can be used offline. It is a progressive web app that can be installed on your device. It uses a service worker to cache the files needed to run the app. It also uses IndexedDB to store the text that you type in the editor.
+Bootcamp 19.4 Challenge:  Progressive Web Application
+ (PWA) Text Editor
 
-## Table of Contents
+This is a student assignement to create and deploy an application that allows a user to create notes or code snippets with or without an internet connection.  The notes can be reliably retreived for later use even if a web connection is interupted or not available.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Questions](#questions)
+## 🔗 The deliverable links (not to be confused with breakfast sausages):
 
-## Installation
+[Github Link: https://github.com/MrBryanS/C19-PWA-Text-Editor](https://github.com/MrBryanS/C19-PWA-Text-Editor)
 
-To install the app, go to the [deployed app](https://pwa-text-editor.herokuapp.com/) and click on the install button in the address bar.
+[Heroku deployed link
+https://pwa-bs-05b5e2fefd7b.herokuapp.com/](https://pwa-bs-05b5e2fefd7b.herokuapp.com/)
 
-## Usage
 
-To use the app, type in the text editor. The text will be saved to the IndexedDB database. If you are offline, the text will be saved to the database and will be synced to the server when you are back online.
+## 🚀 About Me
+I'm a full stack developer: A developer in development
+.
 
-## License
+## Acknowledgements
 
-This project is licensed under the MIT license.
+This project was create with help from class materials, help from teaching assistants and a tutor, and a lot of help from the internet.
