@@ -29,6 +29,8 @@ module.exports = () => {
         swDest: "src-sw.js",
       }),
       new WebpackPwaManifest({
+        fingerprints: false,
+        inject: true,
         name: "J.A.T.E",
         short_name: "J.A.T.E",
         description: "Create and store notes for later access.",
